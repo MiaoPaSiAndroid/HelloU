@@ -8,7 +8,6 @@ public class ItemStyle {
         this.title = title;
         this.imageId = imageId;
     }
-
     public String getTitle() {
         return title;
     }
